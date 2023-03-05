@@ -1,5 +1,12 @@
 # Face_Recognition_Mined_Hackathon
 
+Need to install these libraries:
+
+pillow
+numpy
+OpenCV2
+albumentation
+
 Steps to execute the program :
 
 1.Adding of data 
