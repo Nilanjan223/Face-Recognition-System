@@ -3,9 +3,13 @@
 Need to install these libraries:
 
 pillow
+
 numpy
+
 OpenCV2
+
 albumentation
+
 
 Steps to execute the program :
 
